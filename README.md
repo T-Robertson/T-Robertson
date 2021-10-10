@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @T-Robertson
+- 
 - 👀 I’m interested in ...
+  - Python (bots and intergration with API systems)
+  - C#
+  - HTML
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+  - Python
+  - C# (Basic)
+  - HTML (Basic)
 - 📫 How to reach me ...
 
-<!---
-T-Robertson/T-Robertson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
