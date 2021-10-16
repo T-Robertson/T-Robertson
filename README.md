@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T-Robertson
-- 
+  - Thomas/Tom
 - 👀 I’m interested in ...
   - Python (bots and intergration with API systems)
   - C#
@@ -9,5 +9,5 @@
   - C# (Basic)
   - HTML (Basic)
 - 📫 How to reach me ...
-
-
+  - YT - Ra Studios
+  - Twitter - @robertson_va
