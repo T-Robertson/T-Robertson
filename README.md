@@ -9,6 +9,3 @@
   - C# (Basic)
   - HTML (Basic)
   - PowerShell
-- 📫 How to reach me ...
-  - YT - Ra Studios
-  - Twitter - @robertson_va
